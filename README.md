@@ -1,6 +1,8 @@
 # nlrob
 Robust Fitting of Nonlinear Regression Models Use nlrob (robustbase) With (In) R Software
 
+https://www.youtube.com/watch?v=rBsNxf6J4fA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
